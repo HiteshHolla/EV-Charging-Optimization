@@ -45,20 +45,27 @@ This project proposes a Particle Swarm Optimization (PSO) based technique for ch
 
 ### Installation
 
-1. Download the folder named "Project Code" and run the file named "obj2" which contains the main PSO code.
+1. Download the folder named "Project Code" and run the file named "PSOtester" which contains the main PSO code.
 2. Remaining files are for plotting the various curves which show the difference between the conventional charging and PSO based charging.
+
+<!-- Usage -->
 
 ## Usage
 
-1. The PSO parameters can be changed in the obj2 code as per the user's requirments and reused in different scenarios where optimization is required for large scale search space problems.
-2. Given below is the flow chart of the PSO algorithm. Please keep it handy while going through the code in the obj2 file.
+1. The PSO parameters can be changed in the "PSOtester" code as per the user's requirments and reused in different scenarios where optimization is required for large scale search space problems.
+2. The Project report explains the entire algorithm and the various curves step by step. Do run the code by yourself and verify with the curves present in the report.
+3. Given below is the flow chart of the PSO algorithm. Please keep it handy while going through the code in the "PSOtester" file.
 
 ![PSO Flowchart](https://user-images.githubusercontent.com/40661826/159780187-ba3e8fb4-7285-4926-b6af-51c341225d2f.jpg)
+
+<!-- Contact -->
 
 ## Contact
 
 * [LinkedIn](https://www.linkedin.com/in/hitesh-holla-13b8661b5/)
 * [Gmail](mailto:hiteshholla@gmail.com)
+
+<!-- Acknowledgements -->
 
 ## Acknowledgments
 
